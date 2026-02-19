@@ -4,7 +4,7 @@ description: Guide inquiry into awareness without method - pointing to observati
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3584
+  version: 1.0.3585
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - choiceless-awareness-practice
